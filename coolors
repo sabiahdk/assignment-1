@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+   <nav class="header">
+    <img src="./asset/logo.svg" alt="">
+    <ul>
+        <li><a href="">Tools</a></li>
+        <li ><a href="" class="hp">Go Pro</a></li>
+        <li><a href="">Sign in</a></li>
+        <li class="blue"><a href="" >Sign Up</a></li>
+    </ul>
+   </nav>
+   <hr>
+   <main class="hero">
+<div>
+    <div class="text-area">
+        <h1>The super fast color palettes generator!</h1>
+        <p>Create the per</p>
+    </div>
+    <div class="buttons">
+        <ul>
+            <li><a href=""> Start the generator</a></li>
+            <li><a href=""> Start the generator</a></li>
+            <li><img src="" alt=""></li>
+        </ul>
+    </div>
+</div>
+    <div class="screen">
+        <div class="big"></div>
+        <div class="small"></div>
+    </div>
+   </main>
+   <section class="cards">
+    <div class="apple">
+        <img src="" alt="">
+        <h1>ios App</h1>
+        <p>create</p>
+    </div>
+    <div class="Andriod">
+        <img src="" alt="">
+        <h1>ios App</h1>
+        <p>create</p>
+    </div>
+    <div class="Figma">
+        <img src="" alt="">
+        <h1>ios App</h1>
+        <p>create</p>
+    </div>
+    <div class="Chrome">
+       <img src="" alt="">
+        <h1>ios App</h1>
+        <p>create</p>
+    </div>
+    <div class="Adobe Extensions">
+       <img src="" alt="">
+        <h1>ios App</h1>
+        <p>create</p>
+    </div>
+   </section>
+   <section class="partners">
+    <p>Used</p>
+    <div>
+        <ul>
+            <li><img src="" alt=""></li>
+            <li><img src="" alt=""></li>
+            <li><img src="" alt=""></li>
+            <li><img src="" alt=""></li>
+            <li><img src="" alt=""></li>
+            <li><img src="" alt=""></li>
+            <li><img src="" alt=""></li>
+            <li><img src="" alt=""></li>
+            <li><img src="" alt=""></li>
+            <li><img src="" alt=""></li>
+            <li><img src="" alt=""></li>
+        </ul>
+    </div>
+   </section>
+   <section class="footer">
+    <div class="items">
+        <div class="tools">
+            <h4>Tools</h4>
+        </div>
+        <div class="tools">
+            <h4>More</h4>
+        </div>
+        <div class="tools">
+            <h4>Jobs</h4>
+        </div>
+        <div class="tools">
+            <h4>Company</h4>
+        </div>
+    </div>
+    <div class="socials">
+        <div class="footp">
+            <p><a href=""></a></p>
+        </div>
+        <div class="foots">
+            <a href=""><img src="" alt=""></a>
+            <a href=""><img src="" alt=""></a>
+            <a href=""><img src="" alt=""></a>
+        </div>
+    </div>
+   </section>
+</div>
+</body>
+</html>
